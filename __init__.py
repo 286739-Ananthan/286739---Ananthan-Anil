@@ -1,3 +1,10 @@
+# ***************************************************************************************************************************************************
+#  *Author           : Ananthan.A - 286739
+#  *File             : __init__.py
+#  *Title            : Python String Operations Module Development
+#  *Description      : python package
+#  ****************************************************************************************************************************************************
+
 # Import all functions from the main module
 from strops import (
     getspan,
