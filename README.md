@@ -20,7 +20,16 @@ The following functions are available in the `strops` module:
 
 You can install the `strops` module in your Python environment using the following steps:
 
-1. Clone this repository or download the source code.
-2. Set up a **virtual environment** (optional but recommended).
-   ```bash
-   python -m venv venv
+### 1. Clone or Download the Source Code
+
+Clone this repository or download the source code to your local machine.
+
+### 2. Set Up a Virtual Environment (Optional but Recommended)
+
+It is recommended to use a virtual environment to avoid conflicts with other packages.
+
+#### On Windows:
+
+```bash
+python -m venv venv
+.\venv\Scripts\activate
